@@ -75,7 +75,7 @@ public class IssuesInformation extends javax.swing.JDialog {
     jTextArea1.setRows(5);
     jTextArea1.setText(
         "Hi! You seem to use Slyum a lot. Nice to see that! If you encounter some bugs or disagreements, feel free to " +
-        "report them from Help menu. Suggestions for enhancement are welcome too.\nTanks");
+        "report them from Help menu. Suggestions for enhancement are welcome too.\nThanks");
     jTextArea1.setWrapStyleWord(true);
     jTextArea1.setBorder(javax.swing.BorderFactory.createEmptyBorder(5, 5, 5, 5));
     jTextArea1.setOpaque(false);
